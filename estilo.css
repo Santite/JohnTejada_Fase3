@@ -1,0 +1,127 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+h3
+{
+	color:#0101DF;
+}
+p{
+	font-size:15px;
+	/*font-weight:bolder;*/
+	line-height:24px;
+	margin-left:10px;
+	margin-right:10px;
+}
+#pie-pag{
+		width: 970px;
+		height: 70px;
+		margin: 0 auto;
+		/*background-color: #1C1C1C;*/}
+#prueba
+{
+	width: 970px;
+	height: 310px;
+	background-color: #D8D8D8;
+	margin: 0 auto;
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+}
+#TEMATICA
+{
+	width: 970px;
+	height: 100px;
+	background-color: #FFBF00;
+	margin: 0 auto;
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+}
+#video { 	width: 970px; height: 330px; margin: 0 auto; background-color: #FFBF00; }
+#importancia {	width: 970px; height: 400px; background-color: #FFBF00; margin: 0 auto; font-family: 'Open Sans'; font-style: normal;
+	font-weight: 400;
+}
+#conocer
+{
+	width: 970px;
+	height: 300px;
+	background-color:#D8D8D8;
+	margin: 0 auto;
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+}
+#tit1 { 	width: 970px; height: 10px; margin: 0 auto; }
+#contenido1
+{
+	width: 970px;
+	height: 4200px;
+	background-color:#D8D8D8;
+	margin: 0 auto;
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+}
+#contenido2
+{
+	width: 970px;
+	height: 3300px;
+	background-color:#D8D8D8;
+	margin: 0 auto;
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+}
+#contenido3
+{
+	width: 970px;
+	height: 1550px;
+	background-color:#D8D8D8;
+	margin: 0 auto;
+	font-family: 'Arial';
+	font-style: normal;
+	font-weight: 50;
+	font-size:200;
+}
+#Multimedia1{
+	width: 970px;
+	height: 1450px;
+	background-color:#E6E6E6;
+	margin: 0 auto;
+	font-family: 'Arial';
+	font-style: normal;
+	font-weight: 50;
+	font-size:200;
+}
+
+#Multimedia2{
+	width: 970px;
+	height: 3460px;
+	background-color:#E6E6E6;
+	margin: 0 auto;
+	font-family: 'Arial';
+	font-style: normal;
+	font-weight: 50;
+	font-size:200;
+}
+
+#Conocer{	width: 910px; height: 610px; background-color:#00FFFF; margin: 0 auto;}
+#proceso{ 	width: 910px; height: 720px; background-color:#FA8258; color:white; margin: 0 auto;}
+#presman{  	width: 910px; height: 600px; background-color:#00FF40; margin: 0 auto;}
+#modelos{	width: 910px; height: 2200px; background-color:#FF8000; color:white; margin: 0 auto;}
+
+
+#DES2{ width: 910px; height: 560px; background-color:#FF8000;  margin: 0 auto; color:white; } #DesarrolloSoftware{color: white;}
+#DES3{	width: 910px; height: 600px; background-color:#0101DF; margin: 0 auto; color:white; } #FasesDesarrollo{color:white;}
+#DES4{	width: 910px; height: 660px; background-color:#04B4AE; margin: 0 auto; color:white; }
+#DES5{	width: 910px; height: 1400px; background-color:#585858; margin: 0 auto; color:white; }
+
+#ModIntro{	width: 910px; height: 800px; background-color:#585858; margin: 0 auto; color:white; }
+#DesIntro{ width: 910px; height: 630px; background-color:#FF8000;  margin: 0 auto; color:white; }
+
+#Multimedia11{	width: 910px; height: 730px; background-color:#0101DF; margin: 0 auto; color:white; }
+#Multimedia12{ width: 910px; height: 630px; background-color:#FFFF00;  margin: 0 auto; color:black; }
+
+#Multimedia13{	width: 910px; height: 500px; background-color:#FF8000; margin: 0 auto; color:white; }
+#Multimedia14{ width: 910px; height: 2890px; background-color:#585858;  margin: 0 auto; color:white; }
